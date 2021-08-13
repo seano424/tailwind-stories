@@ -1,3 +1,9 @@
+## Using Instagram Stories as Inspiration
+This example component to mimic the insta stories component without functionality. It is just an example component using Tailwind and NextJS. 
+
+This is what the page looks like...
+
+![image capture of component](./public/images/stories.png)
 # Next.js + Tailwind CSS Example
 
 This example shows how to use [Tailwind CSS](https://tailwindcss.com/) [(v2.2)](https://blog.tailwindcss.com/tailwindcss-2-2) with Next.js. It follows the steps outlined in the official [Tailwind docs](https://tailwindcss.com/docs/guides/nextjs).
